@@ -1,0 +1,36 @@
+{
+  "name": "pulsoconsulting",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "format": "prettier --check --ignore-path .gitignore .",
+    "format:fix": "prettier --write --ignore-path .gitignore ."
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "animate.css": "^4.1.1",
+    "animate.css-react": "^1.1.0",
+    "dotenv": "^16.3.1",
+    "next": "13.4.19",
+    "nodemailer": "^6.9.4",
+    "react": "18.2.0",
+    "react-awesome-reveal": "^4.2.5",
+    "react-dom": "18.2.0",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.5.7",
+    "@types/react": "18.2.21",
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.28",
+    "prettier": "^3.0.3",
+    "prettier-plugin-tailwindcss": "^0.5.4",
+    "tailwindcss": "^3.3.3",
+    "typescript": "5.2.2"
+  }
+}
