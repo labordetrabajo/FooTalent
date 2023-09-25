@@ -15,7 +15,7 @@ Clona este repositorio en tu computadora usando Git:
 
 bash
 Copy code
-git clone https://github.com/tuusuario/turepositorio.git
+git clone https://github.com/labordetrabajo/FooTalent.git
 Navega a la carpeta del proyecto:
 
 bash
